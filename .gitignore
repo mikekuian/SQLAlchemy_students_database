@@ -1,0 +1,4 @@
+# В файл .gitignore
+__pycache__/
+*.py[cod]  # Ігнорувати скомпільовані файли Python
+
